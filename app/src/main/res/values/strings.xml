@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">UscoGym</string>
+    <string name="enter_email">Ingrese un Email</string>
+    <string name="enter_password">Ingrese una contraseña</string>
+    <string name="registrar">Registrar usuario</string>
+    <string name="login">Loguearse</string>
+    <string name="title_activity_interfaz">Interfaz</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Usco Gym</string>
+    <string name="nav_header_subtitle">Bienvenido</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="FragmenCamera">Bienvenido</string>
+    <string name="todo">TODO</string>
+    <string name="lunes_a_viernes">Lunes a viernes:</string>
+    <string name="nuestros_horarios">Nuestros horarios</string>
+    <string name="_6_am_a_8_pm">6 AM a 8 PM</string>
+    <string name="sabados_a_domingos">Sabados a Domingos:</string>
+    <string name="_6_am_a_12_pm">6 AM a 12 PM</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_ubicacion2">Map</string>
+    <string name="servicios_disponibles">Servicios disponibles:</string>
+    <string name="piscina">- Piscina</string>
+    <string name="zona_cardiovascular">- Zona cardiovascular</string>
+    <string name="zona_de_pesas">- Zona de pesas</string>
+    <string name="ba_o_turco">- Baño turco</string>
+    <string name="servicios_medicos">- Servicios medicos</string>
+</resources>

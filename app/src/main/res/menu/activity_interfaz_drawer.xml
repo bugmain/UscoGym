@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_reloj"
+            android:title="Horarios" />
+        <item
+            android:id="@+id/nav_lugar"
+            android:icon="@drawable/ic_place"
+            android:title="Nuestro Servicios" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_gympesa"
+            android:title="Calcula tu IMC" />
+
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_place"
+            android:title="¿Dónde estamos?" />
+
+
+    </group>
+
+
+
+</menu>

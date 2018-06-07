@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "995684380586",
+    "firebase_url": "https://uscogym.firebaseio.com",
+    "project_id": "uscogym",
+    "storage_bucket": "uscogym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995684380586:android:eeca462280efba14",
+        "android_client_info": {
+          "package_name": "com.example.sebastian.uscogym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995684380586-cgt7bj2rhqsiqo947sqdfg95s9vcoeto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sebastian.uscogym",
+            "certificate_hash": "114ec1e9c68ebdc6e6fa97144603aa80b876d3f9"
+          }
+        },
+        {
+          "client_id": "995684380586-5s8tcj6livi2ngtuvt7t0uvhrmoem4h6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "995684380586-5s8tcj6livi2ngtuvt7t0uvhrmoem4h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2ck633nplkyeuhoIPMPhYRwaJSWr3Gh8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995684380586-5s8tcj6livi2ngtuvt7t0uvhrmoem4h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
